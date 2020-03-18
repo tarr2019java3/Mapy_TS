@@ -76,7 +76,7 @@ public class Main {
 
         Map<School, List<Student>> mapa = new HashMap<School,List<Student>>();
         mapa.put(school1,sch1);
-        mapa.put(school2,sch2);
+        mapa.put(school2    ,sch2);
         mapa.put(school3,sch3);
         mapa.put(school4,sch4);
         for(Map.Entry<School, List<Student>> entry : mapa.entrySet()){
@@ -85,6 +85,9 @@ public class Main {
                 System.out.println(element.getName()+" "+element.getLastname());
             }
         }
+        JSONwriter jsoNwriter = new JSONwriter();
+        jsoNwriter.writerMap("SchoolMap", mapa);
+
 
     }
 }

@@ -1,0 +1,66 @@
+{
+  "pl.sda.mapy.School@6e8dacdf": [
+    {
+      "name": "Jan",
+      "lastname": "Kowalski"
+    },
+    {
+      "name": "Marian",
+      "lastname": "Kowalski"
+    },
+    {
+      "name": "Janusz",
+      "lastname": "Kowalski"
+    },
+    {
+      "name": "Marek",
+      "lastname": "Kowalski"
+    },
+    {
+      "name": "Tomasz",
+      "lastname": "Kowalski"
+    }
+  ],
+  "pl.sda.mapy.School@34ce8af7": [
+    {
+      "name": "Franciszek",
+      "lastname": "Kowalski"
+    },
+    {
+      "name": "Bogdan",
+      "lastname": "Kowalski"
+    },
+    {
+      "name": "Borys",
+      "lastname": "Kowalski"
+    }
+  ],
+  "pl.sda.mapy.School@b684286": [
+    {
+      "name": "Karol",
+      "lastname": "Kowalski"
+    },
+    {
+      "name": "Damian",
+      "lastname": "Kowalski"
+    }
+  ],
+  "pl.sda.mapy.School@7a79be86": [
+    {
+      "name": "Maciej",
+      "lastname": "Kowalski"
+    },
+    {
+      "name": "Michał",
+      "lastname": "Kowalski"
+    },
+    {
+      "name": "Marcin",
+      "lastname": "Kowalski"
+    },
+    {
+      "name": "Darek",
+      "lastname": "Kowalski"
+    }
+  ]
+}
